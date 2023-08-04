@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fadv-portofolio-task/static/css/main.fa7d76ae.css",
-    "main.js": "/fadv-portofolio-task/static/js/main.3d894a67.js",
+    "main.js": "/fadv-portofolio-task/static/js/main.19a09839.js",
     "static/js/787.512dd3f2.chunk.js": "/fadv-portofolio-task/static/js/787.512dd3f2.chunk.js",
     "index.html": "/fadv-portofolio-task/index.html",
     "main.fa7d76ae.css.map": "/fadv-portofolio-task/static/css/main.fa7d76ae.css.map",
-    "main.3d894a67.js.map": "/fadv-portofolio-task/static/js/main.3d894a67.js.map",
+    "main.19a09839.js.map": "/fadv-portofolio-task/static/js/main.19a09839.js.map",
     "787.512dd3f2.chunk.js.map": "/fadv-portofolio-task/static/js/787.512dd3f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa7d76ae.css",
-    "static/js/main.3d894a67.js"
+    "static/js/main.19a09839.js"
   ]
 }
